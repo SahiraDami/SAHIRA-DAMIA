@@ -1,0 +1,28 @@
+body
+    {background-color:blanchedalmond}
+
+    a:link
+    {
+        color:saddlebrown;
+        background-color: snow;
+        text-decoration: none;
+        padding: 15px;
+    }
+a:visited
+    {
+        color:black;
+        background-color:chocolate;
+        text-decoration: none;
+    }
+a:hover
+    {
+        color:red;
+        background-color:pink;
+        text-decoration: underline;
+    }
+a:active
+    {
+        color:navy;
+        background-color:skyblue;
+        text-decoration: underline;
+    }
